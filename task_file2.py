@@ -1,2 +1,2 @@
 print("hello python")
-printf("this file will be cloned")
+print("this file will be cloned")
